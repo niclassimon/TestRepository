@@ -1,3 +1,4 @@
 <?php
-echo('haha')
+// jetzt wirst du ausgelacht
+echo('hahahahha')
 ?>
