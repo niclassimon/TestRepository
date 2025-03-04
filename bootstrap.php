@@ -1,5 +1,6 @@
 <?php
 // jetzt wirst du ausgelacht
-echo('hahahahha')
+echo('hahahahha');
 // jetzt nicht mehr
+echo('guuut');
 ?>
